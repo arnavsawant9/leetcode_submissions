@@ -18,13 +18,9 @@ class Solution {
         }
 
         while(stack.size() > 0){
-            dummyStack.push(stack.pop());
+            sb.append(stack.pop());
         }
-
-        while(dummyStack.size() > 0){
-            sb.append(dummyStack.pop());
-        }
-
-        return sb.toString();
+        
+        return sb.reverse().toString();
     }
 }
