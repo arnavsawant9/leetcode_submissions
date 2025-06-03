@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Math
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
