@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
