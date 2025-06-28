@@ -1,26 +1,17 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        List<Integer> positiveNums = new ArrayList<>();
-        List<Integer> negativeNums = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
+        int[] arr = new int[nums.length];
+        int posIdx = 0, negIdx = 1;
+        for(int i=0;i<nums.length && posIdx < nums.length || negIdx < nums.length;i++){
             if(nums[i] > 0){
-                positiveNums.add(nums[i]);
+                arr[posIdx] = nums[i];
+                posIdx += 2;
             } else {
-                negativeNums.add(nums[i]);
+                arr[negIdx] = nums[i];
+                negIdx += 2;
             }
         }
 
-        int evenIdx = 0, oddIdx = 0;
-        for(int i = 0;i<nums.length;i++){
-            if(i % 2 == 0){
-                nums[i] = positiveNums.get(evenIdx);
-                evenIdx++;
-            } else {
-                nums[i] = negativeNums.get(oddIdx);
-                oddIdx++;
-            }
-        }
-
-        return nums;
+        return arr;
     }
 }
