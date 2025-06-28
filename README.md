@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
