@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0066-plus-one) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
