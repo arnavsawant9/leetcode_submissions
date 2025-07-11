@@ -1,11 +1,12 @@
 class Solution {
     public int search(int[] nums, int target) {
         int pivot = findPivot(nums);
-        //if pivot is -1, i.e your array is not rotated
-        if(pivot == -1) return binSearch(nums,0,nums.length-1, target);
 
         //if pivot has some value, check if the target is @pivot
-        if(nums[pivot] == target) return pivot;
+        if(pivot != -1 && nums[pivot] == target) return pivot;
+
+        //if pivot is -1, i.e your array is not rotated
+        if(pivot == -1) return binSearch(nums,0,nums.length-1, target);
 
         //go for normal searching
         if(nums[0] > target){
