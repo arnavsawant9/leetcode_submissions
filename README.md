@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0898-transpose-matrix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0898-transpose-matrix) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
