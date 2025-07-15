@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
