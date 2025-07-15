@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
