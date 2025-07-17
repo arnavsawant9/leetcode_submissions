@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0937-online-stock-span) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0014-longest-common-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
