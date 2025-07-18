@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -184,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
