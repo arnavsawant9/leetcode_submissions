@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0595-big-countries) |
