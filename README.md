@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0898-transpose-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
+| [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 ## Database
 |  |
 | ------- |
