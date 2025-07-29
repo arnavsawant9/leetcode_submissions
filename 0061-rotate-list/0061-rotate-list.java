@@ -16,7 +16,7 @@ class Solution {
         if(head == null) return head;
         while(tail.next != null){
             len++;
-            tail = tail.next;
+            tail = tail.next; // here the tail is pointing to the head and it makes up circularlist
         }
         k = k % len;
         int pointer = len - k;
