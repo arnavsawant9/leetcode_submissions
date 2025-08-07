@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 ## Database
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
