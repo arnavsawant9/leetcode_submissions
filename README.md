@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0090-subsets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
