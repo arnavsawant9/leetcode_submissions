@@ -25,8 +25,8 @@ class Solution {
     private void preorder(TreeNode node, List<Integer> result) {
         if (node == null) return;
 
-        result.add(node.val);          // Visit root
-        preorder(node.left, result);   // Visit left subtree
-        preorder(node.right, result);  // Visit right subtree
+        result.add(node.val);          
+        preorder(node.left, result);   
+        preorder(node.right, result);  
     }
 }
