@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0735-asteroid-collision) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
+| [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Queue
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0090-subsets-ii) |
+| [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
