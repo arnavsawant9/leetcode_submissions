@@ -18,6 +18,7 @@ import java.util.*;
 
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
+        // this is the iterative approach!!!
         List<Integer> inorder = new ArrayList<Integer>();
         Stack<TreeNode> stack = new Stack<TreeNode>();
         TreeNode node = root;
