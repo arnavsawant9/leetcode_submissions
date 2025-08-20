@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
 | ------- |
@@ -254,11 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0898-transpose-matrix) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Prefix Sum
 |  |
 | ------- |
