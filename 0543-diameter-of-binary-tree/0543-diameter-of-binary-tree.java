@@ -21,9 +21,7 @@ class Solution {
     }
 
     private int height(TreeNode node, int[] diameter) {
-        if (node == null) {
-            return 0;
-        }
+        if (node == null) return 0;
 
         int lh = height(node.left, diameter);
         int rh = height(node.right, diameter);
