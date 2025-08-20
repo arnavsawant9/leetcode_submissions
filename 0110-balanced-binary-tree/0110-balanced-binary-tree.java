@@ -26,6 +26,6 @@ class Solution {
         if(rightHeight == -1) return -1;
 
         if(Math.abs(leftHeight - rightHeight) > 1) return -1;
-        return 1 + Math.max(dfsHeight(root.left), dfsHeight(root.right));
+        return 1 + Math.max(leftHeight, rightHeight);
     }
 }
