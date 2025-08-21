@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0402-remove-k-digits) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Greedy
 |  |
