@@ -25,7 +25,7 @@ class Solution {
         if (list.size() == level) {
             list.add(root.val);
         }
-            recursionRight(root.right, level + 1, list);
-            recursionRight(root.left, level + 1, list);
+        recursionRight(root.right, level + 1, list);
+        recursionRight(root.left, level + 1, list);
     }
 }
