@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0402-remove-k-digits) |
+| [0800-letter-case-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+| [0800-letter-case-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0800-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
+| [0800-letter-case-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0800-letter-case-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
