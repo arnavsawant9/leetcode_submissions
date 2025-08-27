@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
 | ------- |
