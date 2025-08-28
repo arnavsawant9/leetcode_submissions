@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Simulation
 |  |
 | ------- |
