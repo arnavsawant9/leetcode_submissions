@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0800-letter-case-permutation) |
 ## Heap (Priority Queue)
