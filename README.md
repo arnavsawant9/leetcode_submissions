@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
