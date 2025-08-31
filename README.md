@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2032-largest-odd-number-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
