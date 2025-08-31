@@ -20,10 +20,8 @@ class Solution {
         }
 
         if (text1.charAt(i) == text2.charAt(j)) {
-            // if chars match, add 1 and move diagonally
             cache[i][j] = 1 + helper(text1, i - 1, text2, j - 1, cache);
         } else {
-            // else take max of skipping one char from either string
             cache[i][j] = Math.max(helper(text1, i - 1, text2, j, cache),
                            helper(text1, i, text2, j - 1, cache));
         }
