@@ -19,17 +19,15 @@ class Solution {
             return cache[i][j];
         }
 
-        int max;
         if (text1.charAt(i) == text2.charAt(j)) {
             // if chars match, add 1 and move diagonally
-            max = 1 + helper(text1, i - 1, text2, j - 1, cache);
+            cache[i][j] = 1 + helper(text1, i - 1, text2, j - 1, cache);
         } else {
             // else take max of skipping one char from either string
-            max = Math.max(helper(text1, i - 1, text2, j, cache),
+            cache[i][j] = Math.max(helper(text1, i - 1, text2, j, cache),
                            helper(text1, i, text2, j - 1, cache));
         }
 
-        cache[i][j] = max;
-        return max;
+        return cache[i][j];
     }
 }
