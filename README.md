@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3830-find-closest-person](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3830-find-closest-person) |
 ## Queue
 |  |
