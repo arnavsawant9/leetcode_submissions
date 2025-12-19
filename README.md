@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0898-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0937-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
