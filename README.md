@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1448-maximum-69-number) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2032-largest-odd-number-in-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0937-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Dynamic Programming
 |  |
 | ------- |
