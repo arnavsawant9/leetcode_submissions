@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
