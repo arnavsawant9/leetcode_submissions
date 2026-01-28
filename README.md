@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0800-letter-case-permutation](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/arnavsawant9/leetcode_submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1813-maximum-erasure-value](https://github.com/arnavsawant9/leetcode_submissions/tree/master/1813-maximum-erasure-value) |
